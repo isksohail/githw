@@ -1,4 +1,4 @@
-i<!DOCTYPE html>
+<!DOCTYPE html>
 <title>My Example</title>
 
 
@@ -17,6 +17,3 @@ i<!DOCTYPE html>
   // Output results to the above HTML element
   document.getElementById("msg").innerHTML = output;
 /script>
-
-the class has begun and is being educative
-.js program
